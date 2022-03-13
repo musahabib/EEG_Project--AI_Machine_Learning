@@ -13,7 +13,7 @@ Data/Preprocessed/: Data after initial preprocessing steps and feature generatio
 Data/Raw/: Raw brainwave data as measured using the EEG.
 
 
-**Feature Generation -Jordan Bird/:** Contains the referenced work by Jordan B. Bird in generating features of brainwave data to use in machine learning algorithms.
+**eegFG/:** Contains the referenced work by Jordan B. Bird in generating features of brainwave data to use in machine learning algorithms.
 
 **Final Submission/:** Contains our final code and project report.
 
