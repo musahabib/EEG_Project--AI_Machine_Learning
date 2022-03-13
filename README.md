@@ -1,25 +1,20 @@
-# MANU465 Project - Team 1
+# Predicting Worker Fatigue using EEG brainwave data
+
+This project will create a ML model that will predict if a person is tired or not tired.
+
+The folders in this repository contain the following:
+
+**Data/:**
+
+Data/Generated Images/: Greyscale images for Tired and Not Tired data. Images are based off data from Principal Component Analysis and were created using the imageio Python                             library.
+
+Data/Preprocessed/: Data after initial preprocessing steps and feature generation.
+
+Data/Raw/: Raw brainwave data as measured using the EEG.
 
 
-## Directories
+**Feature Generation -Jordan Bird/:** Contains the referenced work by Jordan B. Bird in generating features of brainwave data to use in machine learning algorithms.
 
-**MANU465_Team1_Project/** 
+**Final Submission/:** Contains our final code and project report.
 
-contains:
-
-Notebook.ipynb: The main notebook/code used in the project.
-
-    Data/ : Folder containing all raw data
-
-
-        Raw/ : ALL data as collected
-
-
-        Train/ : Training Data (not in use for now)
-
-
-        Test/ : Testing Data (not in use for now)
-
-
-This project will create a ML model that will predict if a person is tired or not tired
-
+**Project Proposal/:** Contains the proposal made during the start of the project.
