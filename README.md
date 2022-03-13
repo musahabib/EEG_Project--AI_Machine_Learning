@@ -6,8 +6,10 @@ The folders in this repository contain the following:
 
 **Data/:**
 
-Data/Generated Images/: Greyscale images for Tired and Not Tired data. Images are based off data from Principal Component Analysis and were created using the imageio Python library.
+Data/Generated Images/: Greyscale images for Tired and Not Tired data. Images are based off data from Principal Component Analysis and were created using the imageio Python                             library.
+
 Data/Preprocessed/: Data after initial preprocessing steps and feature generation.
+
 Data/Raw/: Raw brainwave data as measured using the EEG.
 
 
